@@ -1,4 +1,4 @@
-# Participation au 16-09-2025 21:57
+# Participation au 16-09-2025 21:58
 
 | Table des matières            | Description                                             |
 |-------------------------------|---------------------------------------------------------|
@@ -39,7 +39,7 @@
 | 20 | [300151042](../300151042/README.md) :point_right: [hichemhamdi10](https://github.com/hichemhamdi10) <image src='https://avatars0.githubusercontent.com/u/583231?s=460&v=4' width=20 height=20></image> | :heavy_check_mark: | :heavy_check_mark: |
 | 21 | [300151233](../300151233/README.md) :point_right: [syphax25](https://github.com/syphax25) <image src='https://avatars0.githubusercontent.com/u/583231?s=460&v=4' width=20 height=20></image> | :x: | :x: |
 | 22 | [300151292](../300151292/README.md) :point_right: [akahil521](https://github.com/akahil521) <image src='https://avatars0.githubusercontent.com/u/583231?s=460&v=4' width=20 height=20></image> | :heavy_check_mark: | :heavy_check_mark: |
-| 23 | [300151354](../300151354/README.md) :point_right: [massinissamakoudi](https://github.com/massinissamakoudi) <image src='https://avatars0.githubusercontent.com/u/583231?s=460&v=4' width=20 height=20></image> | :x: | :x: |
+| 23 | [300151354](../300151354/README.md) :point_right: [massinissamakoudi](https://github.com/massinissamakoudi) <image src='https://avatars0.githubusercontent.com/u/583231?s=460&v=4' width=20 height=20></image> | :heavy_check_mark: | :x: |
 | 24 | [300151492](../300151492/README.md) :point_right: [hacen19](https://github.com/hacen19) <image src='https://avatars0.githubusercontent.com/u/583231?s=460&v=4' width=20 height=20></image> | :heavy_check_mark: | :heavy_check_mark: |
 | 25 | [300151608](../300151608/README.md) :point_right: [mohammedaiche434](https://github.com/mohammedaiche434) <image src='https://avatars0.githubusercontent.com/u/583231?s=460&v=4' width=20 height=20></image> | :x: | :x: |
 | 26 | [300151833](../300151833/README.md) :point_right: [raoufbrs15](https://github.com/raoufbrs15) <image src='https://avatars0.githubusercontent.com/u/583231?s=460&v=4' width=20 height=20></image> | :heavy_check_mark: | :x: |
