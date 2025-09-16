@@ -1,2 +1,27 @@
-# 300151833
-![wp9183168](https://github.com/user-attachments/assets/2ab18fe6-4351-4346-a5c5-fb8bdacd9cc8)
+<!-- Carte profil avec background bleu -->
+<div style="border-radius:14px; padding:18px; max-width:520px;
+            background:#0b63d6; color:#fff; font-family:Arial, sans-serif;">
+  
+  <h2 style="margin:0; font-size:1.5em;">Raouf <span style="font-weight:300;">Bouras</span></h2>
+  <p style="margin:6px 0 12px 0; font-weight:bold;">Étudiant — Collège Boréal</p>
+  
+  <ul style="margin:0; padding-left:18px; list-style:disc;">
+    <li><strong>Numéro étudiant :</strong> 300151833</li>
+    <li><strong>Statut :</strong> Étudiant actif</li>
+  </ul>
+  
+  <p style="margin-top:14px; font-size:0.9em;">
+    Bienvenue sur mon projet — consultez le README pour plus de détails.
+  </p>
+  
+  <p>
+    <a href="#" style="text-decoration:none; background:#fff; color:#0b63d6; 
+                       padding:6px 12px; border-radius:8px; font-size:0.85em; font-weight:bold;">
+      Projets
+    </a>
+    <a href="#" style="text-decoration:none; border:2px solid #fff; color:#fff; 
+                       padding:6px 12px; border-radius:8px; font-size:0.85em; font-weight:bold;">
+      Contact
+    </a>
+  </p>
+</div>
