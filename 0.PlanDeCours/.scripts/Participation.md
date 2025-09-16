@@ -1,4 +1,4 @@
-# Participation au 16-09-2025 19:27
+# Participation au 16-09-2025 19:29
 
 | Table des matières            | Description                                             |
 |-------------------------------|---------------------------------------------------------|
@@ -23,7 +23,7 @@
 | 4 | [300150284](../300150284/README.md) :point_right: [300150284](https://github.com/300150284) <image src='https://avatars0.githubusercontent.com/u/583231?s=460&v=4' width=20 height=20></image> | :x: | :x: |
 | 5 | [300150295](../300150295/README.md) :point_right: [300150295](https://github.com/300150295) <image src='https://avatars0.githubusercontent.com/u/583231?s=460&v=4' width=20 height=20></image> | :x: | :x: |
 | 6 | [300150296](../300150296/README.md) :point_right: [bnnyouba99](https://github.com/bnnyouba99) <image src='https://avatars0.githubusercontent.com/u/583231?s=460&v=4' width=20 height=20></image> | :heavy_check_mark: | :heavy_check_mark: |
-| 7 | [300150303](../300150303/README.md) :point_right: [300150303](https://github.com/300150303) <image src='https://avatars0.githubusercontent.com/u/583231?s=460&v=4' width=20 height=20></image> | :x: | :x: |
+| 7 | [300150303](../300150303/README.md) :point_right: [300150303](https://github.com/300150303) <image src='https://avatars0.githubusercontent.com/u/583231?s=460&v=4' width=20 height=20></image> | :heavy_check_mark: | :x: |
 | 8 | [300150385](../300150385/README.md) :point_right: [300150385](https://github.com/300150385) <image src='https://avatars0.githubusercontent.com/u/583231?s=460&v=4' width=20 height=20></image> | :x: | :x: |
 | 9 | [300150395](../300150395/README.md) :point_right: [ismailtrache](https://github.com/ismailtrache) <image src='https://avatars0.githubusercontent.com/u/583231?s=460&v=4' width=20 height=20></image> | :heavy_check_mark: | :heavy_check_mark: |
 | 10 | [300150399](../300150399/README.md) :point_right: [chkips](https://github.com/chkips) <image src='https://avatars0.githubusercontent.com/u/583231?s=460&v=4' width=20 height=20></image> | :heavy_check_mark: | :x: |
