@@ -2,4 +2,4 @@
 
 Belkacem Medjkoune
 
-<img src="images/algerie-jsk-recoit-nouveau-coup-dur-financier.jpg" alt="mon image" width="50%" height="50%"> </img>
+<img src="Images/algerie-jsk-recoit-nouveau-coup-dur-financier.jpg" alt="mon image" width="50%" height="50%"> </img>
