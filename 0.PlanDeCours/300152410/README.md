@@ -2,5 +2,5 @@
 
 
 
- <img src="GqhpCyzT.jpg" alt="Girl in a jacketé"/> 
+ <img src="images/GqhpCyzT.jpg" alt="Girl in a jacketé"/> 
 
