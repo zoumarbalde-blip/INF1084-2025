@@ -1,4 +1,5 @@
 <!-- Carte profil avec background bleu -->
+https://github.com/CollegeBoreal/INF1084-202-25A-04/blob/c3421ed7b67967391f09cf5ffe34e97fffb1a9a1/0.PlanDeCours/300151833/unnamed.jpg
 <div style="border-radius:14px; padding:18px; max-width:520px;
             background:#0b63d6; color:#fff; font-family:Arial, sans-serif;">
   
