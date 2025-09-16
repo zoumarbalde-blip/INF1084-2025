@@ -1,3 +1,3 @@
 #300147786
 #mes images
-![image 1](image/MXOE6991.png)
+![image 1](images/MXOE6991.png)
