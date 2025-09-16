@@ -1,4 +1,4 @@
 # 300141368
 
-<img src="images/_.jpg" alt="Guitare-Acoustique">
+<img src="images/wp3290583.jpg" alt="Guitare-Acoustique">
 
