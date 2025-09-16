@@ -1,3 +1,3 @@
 # 300151233
 
-<img src="amazigh.jpg" alt="aMAZIGH">
+<img src="image/amazigh.jpg" alt="aMAZIGH">
