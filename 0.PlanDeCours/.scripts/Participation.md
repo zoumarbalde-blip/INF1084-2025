@@ -44,5 +44,5 @@
 | 25 | [300151608](../300151608/README.md) :point_right: [mohammedaiche434](https://github.com/mohammedaiche434) <image src='https://avatars0.githubusercontent.com/u/583231?s=460&v=4' width=20 height=20></image> | :x: | :x: |
 | 26 | [300151833](../300151833/README.md) :point_right: [raoufbrs15](https://github.com/raoufbrs15) <image src='https://avatars0.githubusercontent.com/u/583231?s=460&v=4' width=20 height=20></image> | :x: | :x: |
 | 27 | [300151841](../300151841/README.md) :point_right: [300151841](https://github.com/300151841) <image src='https://avatars0.githubusercontent.com/u/583231?s=460&v=4' width=20 height=20></image> | :x: | :x: |
-| 28 | [300152410](../300152410/README.md) :point_right: [imadboudeuf](https://github.com/imadboudeuf) <image src='https://avatars0.githubusercontent.com/u/583231?s=460&v=4' width=20 height=20></image> | :x: | :x: |
+| 28 | [300152410](../300152410/README.md) :point_right: [imadboudeuf](https://github.com/imadboudeuf) <image src='https://avatars0.githubusercontent.com/u/583231?s=460&v=4' width=20 height=20></image> | :heavy_check_mark: | :x: |
 | 29 | [300153747](../300153747/README.md) :point_right: [madjou15](https://github.com/madjou15) <image src='https://avatars0.githubusercontent.com/u/?s=460&v=4' width=20 height=20></image> | :heavy_check_mark: | :heavy_check_mark: |
