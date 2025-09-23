@@ -12,3 +12,6 @@ INF1084 (202) - Introduction à l'administration des systèmes
 | :three: |22-sept| [1.SSH](1.SSH/.scripts/Participation.md)       | â Noter :x: |
 
 
+# :books: Références
+
+`git log --format=fuller -- `:id:`.md`
