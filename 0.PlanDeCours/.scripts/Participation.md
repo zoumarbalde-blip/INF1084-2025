@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # Participation au 23-09-2025 22:28
+=======
+# Participation au 23-09-2025 22:36
+>>>>>>> 4d51b07baf88139aab7c789260f539ea5aec57b5
 
 | Table des matières            | Description                                             |
 |-------------------------------|---------------------------------------------------------|
@@ -22,7 +26,7 @@
 | 3 | [300145940](../300145940/README.md) :point_right: [TasnimMarzouki](https://github.com/TasnimMarzouki) <image src='https://avatars0.githubusercontent.com/u/583231?s=460&v=4' width=20 height=20></image> | :x: | :x: |
 | 4 | [300146545](../300146545/README.md) :point_right: [saoudialaoua](https://github.com/saoudialaoua) <image src='https://avatars0.githubusercontent.com/u/211592881?s=460&v=4' width=20 height=20></image> | :heavy_check_mark: | :heavy_check_mark: |
 | 5 | [300146667](../300146667/README.md) :point_right: [djaberbenyezza](https://github.com/djaberbenyezza) <image src='https://avatars0.githubusercontent.com/u/205994773?s=460&v=4' width=20 height=20></image> | :heavy_check_mark: | :heavy_check_mark: |
-| 6 | [300147629](../300147629/README.md) :point_right: [zoumarbalde-blip](https://github.com/zoumarbalde-blip) <image src='https://avatars0.githubusercontent.com/u/583231?s=460&v=4' width=20 height=20></image> | :x: | :x: |
+| 6 | [300147629](../300147629/README.md) :point_right: [zoumarbalde-blip](https://github.com/zoumarbalde-blip) <image src='https://avatars0.githubusercontent.com/u/583231?s=460&v=4' width=20 height=20></image> | :heavy_check_mark: | :heavy_check_mark: |
 | 7 | [300147786](../300147786/README.md) :point_right: [300786147](https://github.com/300786147) <image src='https://avatars0.githubusercontent.com/u/231366133?s=460&v=4' width=20 height=20></image> | :heavy_check_mark: | :heavy_check_mark: |
 | 8 | [300150205](../300150205/README.md) :point_right: [blbsblm](https://github.com/blbsblm) <image src='https://avatars0.githubusercontent.com/u/205994753?s=460&v=4' width=20 height=20></image> | :heavy_check_mark: | :heavy_check_mark: |
 | 9 | [300150268](../300150268/README.md) :point_right: [kemiche06](https://github.com/kemiche06) <image src='https://avatars0.githubusercontent.com/u/207268490?s=460&v=4' width=20 height=20></image> | :heavy_check_mark: | :heavy_check_mark: |
@@ -43,7 +47,7 @@
 | 24 | [300151492](../300151492/README.md) :point_right: [hacen19](https://github.com/hacen19) <image src='https://avatars0.githubusercontent.com/u/206000307?s=460&v=4' width=20 height=20></image> | :heavy_check_mark: | :heavy_check_mark: |
 | 25 | [300151608](../300151608/README.md) :point_right: [mohammedaiche434](https://github.com/mohammedaiche434) <image src='https://avatars0.githubusercontent.com/u/205994734?s=460&v=4' width=20 height=20></image> | :heavy_check_mark: | :heavy_check_mark: |
 | 26 | [300151833](../300151833/README.md) :point_right: [raoufbrs15](https://github.com/raoufbrs15) <image src='https://avatars0.githubusercontent.com/u/109877652?s=460&v=4' width=20 height=20></image> | :heavy_check_mark: | :heavy_check_mark: |
-| 27 | [300151841](../300151841/README.md) :point_right: [300151841](https://github.com/300151841) <image src='https://avatars0.githubusercontent.com/u/583231?s=460&v=4' width=20 height=20></image> | :x: | :x: |
+| 27 | [300151841](../300151841/README.md) :point_right: [massi9313](https://github.com/massi9313) <image src='https://avatars0.githubusercontent.com/u/583231?s=460&v=4' width=20 height=20></image> | :x: | :x: |
 | 28 | [300152410](../300152410/README.md) :point_right: [imadboudeuf](https://github.com/imadboudeuf) <image src='https://avatars0.githubusercontent.com/u/205994834?s=460&v=4' width=20 height=20></image> | :heavy_check_mark: | :heavy_check_mark: |
 | 29 | [300153747](../300153747/README.md) :point_right: [madjou15](https://github.com/madjou15) <image src='https://avatars0.githubusercontent.com/u/211754108?s=460&v=4' width=20 height=20></image> | :heavy_check_mark: | :heavy_check_mark: |
-| :abacus: |  $\frac{25}{30}$  =  83% | $\displaystyle\sum_{i=1}^{30} s_i$ = 25 |
+| :abacus: |  $\frac{26}{30}$  =  86% | $\displaystyle\sum_{i=1}^{30} s_i$ = 26 |
