@@ -14,4 +14,6 @@ INF1084 (202) - Introduction à l'administration des systèmes
 
 # :books: Références
 
+- [ ] Comment vérifier que le `commit` a été fait par le `CLI`
+      
 `git log --format=fuller -- `:id:`.md`
