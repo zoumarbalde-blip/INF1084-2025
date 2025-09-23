@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # Participation au 23-09-2025 23:25
+=======
+# Participation au 23-09-2025 23:27
+>>>>>>> 7c205ccfc2b58bb7981d54ce15c06450967daeca
 
 | Table des matières            | Description                                             |
 |-------------------------------|---------------------------------------------------------|
@@ -32,7 +36,7 @@
 | 13 | [300150303](../300150303.md) :point_right: [jessmaud](https://github.com/jessmaud) <image src='https://avatars0.githubusercontent.com/u/211592293?s=460&v=4' width=20 height=20></image> | :heavy_check_mark: | :x: |
 | 14 | [300150385](../300150385.md) :point_right: [belka1996](https://github.com/belka1996) <image src='https://avatars0.githubusercontent.com/u/205994785?s=460&v=4' width=20 height=20></image> | :heavy_check_mark: | :heavy_check_mark: |
 | 15 | [300150395](../300150395.md) :point_right: [ismailtrache](https://github.com/ismailtrache) <image src='https://avatars0.githubusercontent.com/u/211577767?s=460&v=4' width=20 height=20></image> | :heavy_check_mark: | :heavy_check_mark: |
-| 16 | [300150399](../300150399.md) :point_right: [chkips](https://github.com/chkips) <image src='https://avatars0.githubusercontent.com/u/195236786?s=460&v=4' width=20 height=20></image> | :x: |
+| 16 | [300150399](../300150399.md) :point_right: [chkips](https://github.com/chkips) <image src='https://avatars0.githubusercontent.com/u/195236786?s=460&v=4' width=20 height=20></image> | :heavy_check_mark: | :heavy_check_mark: |
 | 17 | [300150417](../300150417.md) :point_right: [latifmuristaga](https://github.com/latifmuristaga) <image src='https://avatars0.githubusercontent.com/u/212187666?s=460&v=4' width=20 height=20></image> | :heavy_check_mark: | :heavy_check_mark: |
 | 18 | [300150485](../300150485.md) :point_right: [nad1111](https://github.com/nad1111) <image src='https://avatars0.githubusercontent.com/u/205994799?s=460&v=4' width=20 height=20></image> | :x: |
 | 19 | [300150527](../300150527.md) :point_right: [akrembouraoui](https://github.com/akrembouraoui) <image src='https://avatars0.githubusercontent.com/u/212277460?s=460&v=4' width=20 height=20></image> | :x: |
