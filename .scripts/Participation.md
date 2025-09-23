@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-# Participation au 23-09-2025 23:25
-=======
-# Participation au 23-09-2025 23:27
->>>>>>> 7c205ccfc2b58bb7981d54ce15c06450967daeca
+# Participation au 23-09-2025 23:28
 
 | Table des matières            | Description                                             |
 |-------------------------------|---------------------------------------------------------|
@@ -49,5 +45,5 @@
 | 26 | [300151833](../300151833.md) :point_right: [raoufbrs15](https://github.com/raoufbrs15) <image src='https://avatars0.githubusercontent.com/u/109877652?s=460&v=4' width=20 height=20></image> | :heavy_check_mark: | :heavy_check_mark: |
 | 27 | [300151841](../300151841.md) :point_right: [massi9313](https://github.com/massi9313) <image src='https://avatars0.githubusercontent.com/u/583231?s=460&v=4' width=20 height=20></image> | :heavy_check_mark: | :heavy_check_mark: |
 | 28 | [300152410](../300152410.md) :point_right: [imadboudeuf](https://github.com/imadboudeuf) <image src='https://avatars0.githubusercontent.com/u/205994834?s=460&v=4' width=20 height=20></image> | :heavy_check_mark: | :heavy_check_mark: |
-| 29 | [300153747](../300153747.md) :point_right: [madjou15](https://github.com/madjou15) <image src='https://avatars0.githubusercontent.com/u/211754108?s=460&v=4' width=20 height=20></image> | :x: |
-| :abacus: |  $\frac{18}{30}$  =  60% | $\displaystyle\sum_{i=1}^{30} s_i$ = 18 |
+| 29 | [300153747](../300153747.md) :point_right: [madjou15](https://github.com/madjou15) <image src='https://avatars0.githubusercontent.com/u/211754108?s=460&v=4' width=20 height=20></image> | :heavy_check_mark: | :heavy_check_mark: |
+| :abacus: |  $\frac{20}{30}$  =  66% | $\displaystyle\sum_{i=1}^{30} s_i$ = 20 |
